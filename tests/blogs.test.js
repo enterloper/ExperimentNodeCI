@@ -1,3 +1,5 @@
+Number.prototype._called = {};
+
 const Page = require('./helpers/page');
  
 let page;
